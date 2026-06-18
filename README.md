@@ -3,6 +3,7 @@
 A modern **Password Strength Validator** built with vanilla JavaScript, designed to evaluate password security in real-time using **regular expressions (Regex)**.
 
 **All validation rules were implemented manually without using regex generators or external helpers**
+
 This project was created as a hands-on exercise to deeply understand **Regex patterns and input validation logic**, without relying on external tools or generators. Instead of using resources like iHateRegex, the validation rules were implemented manually to strengthen my understanding of pattern matching and string analysis.
 
 ---
