@@ -7,7 +7,7 @@ This project was created as a hands-on exercise to deeply understand **Regex pat
 
 ---
 
-<img src='Screenshot (1010).png'>
+<img src='Screenshot (1012).png'>
 
 ## ✨ Features
 
